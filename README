@@ -1,5 +1,11 @@
 History of development 
-I was working with Bitbucket on my private projects for a long time. I wanted to switch from FTP deployment into GIT. I mean, when I commit something to my private Bitbucket repo I wanted it to appear on my shared webhosting server too, without FTP syncing. 
+I was working with Bitbucket on my private projects for a long time. 
+I wanted to switch from FTP deployment into GIT. \
+I mean, when I commit something to my private Bitbucket 
+repo I wanted it to appear on my shared webhosting server too, 
+without FTP syncing. 
+
+Start updating security holes with api processes, and server environment variable use and other such best practices.
 
 How script works? 
 1. It gets last commits zip 
